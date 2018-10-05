@@ -8,3 +8,6 @@
 - ``16-Cell``
 - ``24-Cell``
 - ``120-Cell``
+
+### NOTE:
+Uses OpenGL and glut/freeglut
